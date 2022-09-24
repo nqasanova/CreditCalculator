@@ -23,6 +23,8 @@
     font-size: 20px;
     font-weight: bold;
     font-family: Gilroy, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 .sections .centraltext form {
@@ -37,6 +39,7 @@
     padding: 13px 16px 13px 16px;
     text-align: start;
     width: 236px;
+    margin-left: 130px;
 }
 
 .sections .centraltext form h5{
@@ -45,6 +48,8 @@
     font-size: 13px;
     font-weight: 600;
     padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .sections .centraltext .btn button {
@@ -54,4 +59,5 @@
     border: none;
     background-color: rgb(129, 182, 86);
     font-family: Gilroy, sans-serif;
+    margin-left: 155px;
 }
